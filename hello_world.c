@@ -1,3 +1,5 @@
+//A simple program to display hello world
+
 #include <stdio.h>  //including the standard input output to print the message in the terminal
 
 int main() 
